@@ -1,0 +1,5 @@
+No additional changes has been performed on the data other than the ones tha script did.
+A variable oneDataSet is declared which  has the combined data sets.
+Each variable is represented by each column and activiities in the rows.
+There is a slight modification in the column names.
+Row bind on Train and Test are read into the variable subjectDataSet. 
